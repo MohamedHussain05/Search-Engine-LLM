@@ -1,5 +1,3 @@
-Hugging Face profile.
-Copied
 name: Sync to Hugging Face hub
 on:
   push:
